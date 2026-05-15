@@ -11,6 +11,7 @@ repository for solve algorithm problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/caceacacea/leet/tree/main/0001-two-sum/) | Easy |
+| [1470-shuffle-the-array](https://github.com/caceacacea/leet/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/caceacacea/leet/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

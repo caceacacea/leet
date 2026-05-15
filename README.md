@@ -17,8 +17,5 @@ repository for solve algorithm problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/caceacacea/leet/tree/main/1929-concatenation-of-array/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/caceacacea/leet/tree/main/0001-two-sum/) | Easy |
+
 <!---LeetCode Topics End-->

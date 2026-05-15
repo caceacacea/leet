@@ -7,4 +7,12 @@ repository for solve algorithm problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/caceacacea/leet/tree/main/0009-palindrome-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/caceacacea/leet/tree/main/1929-concatenation-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/caceacacea/leet/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
